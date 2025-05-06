@@ -25,8 +25,7 @@ Output = new dataframe (Tesla Stock.csv), EDA graphs
 
 Output = new dataframe (Merged Data.csv), and statistical summaries of each test
 
-References
-References
+#References
 Metta, Sanjeev & Madhavan, Nidheesh & Narayanan, Krishnamoorthy. (2022). Power of 280: Measuring the Impact of Elon Musk's Tweets on the Stock Market. Ushus Journal of Business Management. 21. 17-43. 10.12725/ujbm.58.2. 
 Lennart Ante, How Elon Musk's Twitter activity moves cryptocurrency markets, Technological Forecasting and Social Change, Volume 186, Part A, 2023, 122112, ISSN 0040-1625, https://doi.org/10.1016/j.techfore.2022.122112.
 Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
