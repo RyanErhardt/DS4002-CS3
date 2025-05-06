@@ -7,7 +7,7 @@ DATA folder: initial and combined data from tweets and stock price dataset
 OUTPUT: figures and tables generated from scripts
 REFERENCES: sources used throughout project
 
-SCRIPTS
+This repository also includes a document for the rubric and the introductory hook document.
 
 
 
