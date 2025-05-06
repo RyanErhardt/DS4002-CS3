@@ -7,7 +7,7 @@ DATA folder: initial and combined data from tweets and stock price dataset
 OUTPUT: figures and tables generated from scripts
 REFERENCES: sources used throughout project
 
-This repository also includes a document for the rubric and the introductory hook document.
+This repository also includes a document for the rubric and the introductory hook document. Included are also a blog post from Medium covering the use of sentiment analysis in financial analysis and also a research article that further provides basis for the relationship between sentiment analyis of statements by Elon Musk and market positions.
 
 
 
